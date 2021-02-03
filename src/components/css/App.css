@@ -1,0 +1,18 @@
+.root1 {
+  height: 60vh;
+  background-color: aquamarine;
+  text-align: center;
+
+}
+
+input[type=text]{
+  margin-bottom: 1em;
+}
+
+input[type=password]{
+  margin-bottom: 1em;
+}
+
+input[type=submit]{
+  width: 11.3em;
+}
